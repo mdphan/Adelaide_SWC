@@ -5,6 +5,8 @@ Tests = [
 
         ]
 
+# not finish, still have errors dealing with capital base.
+
 def nucleotideContent(dnaString):    
     '''This function must return the contribution    
     of nucleotides ATCG (as uppercase) from a given DNA     
