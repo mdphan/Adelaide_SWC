@@ -1,8 +1,7 @@
 #Exercise 2:
 #given a string (a sentence), find out how many
 #unique letters A-Z it contains - capital and
-#lower case shouldn't be double-counted
-#'AaAa'
+#lower case shouldn't be double-counted 'AaAa' so this mean AaAa= a
 #input: some string
 #input_string = 'some string here'
 #print (the number of unique letters in the string)
